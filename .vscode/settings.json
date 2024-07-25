@@ -1,0 +1,34 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "abstracta",
+        "calcular",
+        "circulo",
+        "Circulo",
+        "Ciruculo",
+        "clase",
+        "clases",
+        "comportamiento",
+        "desde",
+        "Esta",
+        "figura",
+        "Figura",
+        "hereden",
+        "imprimir",
+        "informacion",
+        "Informacion",
+        "lado",
+        "obligatorio",
+        "rectangulo",
+        "Rectangulo",
+        "será",
+        "viene"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
